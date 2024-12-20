@@ -7,6 +7,14 @@
 </head>
 <body>
     <h1>Latihan Git</h1>
+    <tr>
+        <td>Nama</td>
+        <td>Kelas</td>
+    </tr>
+    <tr>
+        <td>Nurariffiya</td>
+        <td>Teknik Informasi</td>
+    </tr>
     <button>Submit</button>
 </body>
 </html>
